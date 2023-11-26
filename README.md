@@ -7,6 +7,8 @@
  
 - 📫 Найти меня можно в телеграм: @JaneJaneM или написать на e-mail: jenymartin@yandex.ru
 
+  <h3>Мой стек:</h3>
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
